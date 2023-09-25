@@ -22,7 +22,7 @@ export default function Layout( { children, home } ) {
         )
       }
       <footer>
-        <p>Please don't sue me NFL</p>
+        <p>Please do not sue me NFL</p>
       </footer>
     </div>
   );
