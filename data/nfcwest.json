@@ -1,0 +1,26 @@
+[
+  { 
+    "team": "San Francisco 49ers",
+    "coach": "Kyle Shanahan",
+    "location": "Santa Clara, CA",
+    "id": 1
+  },
+  { 
+    "team": "Seattle Seahawks",
+    "coach": "Pete Caroll",
+    "location": "Seattle, WA",
+    "id": 2
+  },
+  { 
+    "team": "Los Angeles Rams",
+    "coach": "Shawn McVay",
+    "location": "Inglewood, CA",
+    "id": 3
+  },
+  { 
+    "team": "Arizona Cardinals",
+    "coach": "Jonathan Gannon",
+    "location": "Glendale, AZ",
+    "id": 4
+  }
+]
